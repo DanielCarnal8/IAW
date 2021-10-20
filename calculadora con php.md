@@ -1,6 +1,6 @@
 # Calculadora con PHP
 
-## PARTE DE HTML
+### PARTE DE HTML
 
 ```html
 <!DOCTYPE html>
@@ -31,7 +31,7 @@
 </html>
 ```
 
-## PARTE DE PHP
+### PARTE DE PHP
 ```php
 <?php
 
