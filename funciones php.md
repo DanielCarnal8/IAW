@@ -1,6 +1,6 @@
 # FUNCIONES USANDO PHP
 
-###FUNCIÓN SUMA
+### FUNCIÓN SUMA
 ```php
 <?php
 
@@ -13,7 +13,7 @@ echo  suma(1,2);
 
 ?>
 ```
-###FUNCIÓN CONCATENAR
+### FUNCIÓN CONCATENAR
 ```php
 <?php
 function concatenar ($texto,$texto1){
@@ -23,7 +23,7 @@ function concatenar ($texto,$texto1){
 echo concatenar ("patica","el que lo lea")
 ?>
 ``` 
-###FUNCIÓN CONTAR
+### FUNCIÓN CONTAR
 ```php
 <?php
 for ($counter=0; $counter < 10; $counter++) {
